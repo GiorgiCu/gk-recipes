@@ -1,1 +1,1 @@
-# gk-recipes
+This project is going to be about a basic recipe website.Using this page, I will demonstrate that I am capable of using HTML. 
